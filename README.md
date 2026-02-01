@@ -6,13 +6,13 @@
 
 -- Added toggles on popup for:
 
--- The custom play buttons
+-The custom play buttons
 
-Square ui
+-Square ui
 
-Transparent top bar
+-Transparent top bar
 
-And button scale on hover
+-And button scale on hover
 
 -- Added buttons on popup for:
 
