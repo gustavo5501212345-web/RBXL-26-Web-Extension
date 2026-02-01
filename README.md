@@ -1,4 +1,16 @@
 ©2026 AZEL PRODUCTIONS, YOU MAY NOT REDISTRIBUTE THIS AS YOUR OWN
+## Features this fork adds
+-- The music and video now pauses if you change tabs or open another app
+-- The music and video continus on were it left for example if you go to roblox.com/home them to roblox.com/catalog the music and video doesn't restart
+-- Added toggles on popup for:
+-- The custom play buttons
+Square ui
+Transparent top bar
+And button scale on hover
+-- Added buttons on popup for:
+-Mute/unmute the music
+-Restart Music
+-Restart Video
 
 ## Installation Instructions
 
